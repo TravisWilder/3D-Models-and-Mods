@@ -11,3 +11,5 @@ https://laderampe.net/3D-Printing/Voron-V2.4/Rebuild
 
     Credits: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover
     
+    ![exhaust cover for can bus](/images/exhaust cover for can bus.ng "exhaust cover for can bus")
+
