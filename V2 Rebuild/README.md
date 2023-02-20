@@ -5,7 +5,6 @@ https://laderampe.net/3D-Printing/Voron-V2.4/Rebuild
 
 * Extrusion Mount for ERCF.stl
 
-
     Used to mount the ERCF with short extrusion on top of the V2
 
 * exhaust cover for can bus.stl
