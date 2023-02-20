@@ -13,3 +13,6 @@ https://laderampe.net/3D-Printing/Voron-V2.4/Rebuild
     
 ![exhaust cover for can bus](Images/exhaust%20cover%20for%20can%20bus.png)
 
+* Can Bus Mount
+
+    Credits: https://github.com/KayosMaker/CANboard_Mounts
